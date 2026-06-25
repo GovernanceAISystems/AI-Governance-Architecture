@@ -1,0 +1,108 @@
+Methodology
+
+Operational AI Governance Methodology
+
+Introduction
+
+This framework follows a structured methodology for designing operational governance architectures for Artificial Intelligence systems.
+
+Rather than beginning with implementation, the process starts by understanding the organisation, its objectives, its operational environment and the level of governance required.
+
+The resulting architecture is designed specifically for the organisation being analysed.
+
+---
+
+Step 1 — Understand the Organisation
+
+The first stage consists of analysing the organisation itself.
+
+Typical considerations include:
+
+* Business objectives
+* Operational processes
+* Organisational structure
+* Decision workflows
+* Existing governance policies
+* Regulatory environment
+
+At this stage, no governance architecture is produced.
+
+The objective is to understand the operating environment.
+
+---
+
+Step 2 — Identify Governance Requirements
+
+After understanding the organisation, governance requirements are identified.
+
+Examples include:
+
+* Human oversight requirements
+* Decision boundaries
+* Behavioural expectations
+* Risk tolerance
+* Transparency requirements
+* Escalation policies
+
+---
+
+Step 3 — Context and Risk Analysis
+
+Every organisation operates under different levels of operational risk.
+
+The methodology evaluates contextual factors such as:
+
+* ambiguity
+* operational impact
+* decision pressure
+* organisational sensitivity
+
+These factors influence how AI should behave in different situations.
+
+---
+
+Step 4 — Design the Governance Architecture
+
+Once requirements have been identified, an operational governance architecture is designed.
+
+This architecture defines:
+
+* behavioural layers
+* operational rules
+* decision behaviour
+* context adaptation
+* oversight mechanisms
+
+The architecture is unique to each organisation.
+
+There is no universal governance model.
+
+---
+
+Step 5 — Operational Representation
+
+Only after the architecture has been designed are governance rules represented in structured operational formats.
+
+These representations are implementation artefacts rather than the architecture itself.
+
+The architecture always precedes implementation.
+
+---
+
+Step 6 — Validation
+
+The resulting governance model is reviewed to ensure:
+
+* internal consistency
+* behavioural predictability
+* proportionality
+* alignment with organisational objectives
+* preservation of human decision authority
+
+---
+
+Methodological Principle
+
+The central principle of this methodology is that governance should never begin with implementation.
+
+Operational structures are the consequence of architectural design, not its starting point.

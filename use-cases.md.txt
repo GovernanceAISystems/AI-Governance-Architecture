@@ -1,0 +1,110 @@
+Use Cases
+
+Operational AI Governance — Example Use Cases
+
+Introduction
+
+The Operational AI Governance Framework is designed to be adaptable across different organisational environments.
+
+The following examples are illustrative scenarios showing how a governance architecture may vary according to business context, operational risk and decision requirements.
+
+---
+
+Financial Services
+
+Typical Governance Requirements
+
+* High regulatory exposure
+* Strong audit requirements
+* Human approval for critical decisions
+* Risk-based behaviour
+* Consistent customer interactions
+
+Possible governance architecture:
+
+* Increased behavioural caution
+* Mandatory human oversight
+* Decision escalation
+* Complete interaction traceability
+
+---
+
+Healthcare
+
+Typical Governance Requirements
+
+* High safety requirements
+* Clinical uncertainty
+* Human responsibility
+* Conservative AI behaviour
+
+Possible governance architecture:
+
+* High caution mode
+* Explicit uncertainty handling
+* Recommendation limits
+* Medical professional remains final decision maker
+
+---
+
+Enterprise Customer Support
+
+Typical Governance Requirements
+
+* Fast operational responses
+* Consistent communication
+* Escalation of complex situations
+* Customer-friendly language
+
+Possible governance architecture:
+
+* Dynamic behavioural adaptation
+* Context-sensitive responses
+* Escalation policies
+* Behavioural consistency
+
+---
+
+Internal Corporate Assistants
+
+Typical Governance Requirements
+
+* Internal knowledge access
+* Policy compliance
+* Confidentiality
+* Organisational consistency
+
+Possible governance architecture:
+
+* Policy-aware behaviour
+* Restricted operational boundaries
+* Context-sensitive decision support
+* Human validation where required
+
+---
+
+Executive Decision Support
+
+Typical Governance Requirements
+
+* Strategic analysis
+* Multiple alternatives
+* Risk assessment
+* No autonomous decision making
+
+Possible governance architecture:
+
+* Structured analytical summaries
+* Trade-off presentation
+* Decision returned to leadership
+* No prescriptive conclusions
+
+---
+
+Key Observation
+
+Although the operational structures may be represented using similar mechanisms, governance architectures should never be identical across organisations.
+
+Every organisation has different objectives, different operational risks and different governance requirements.
+
+The architecture must therefore be designed specifically for the environment in which the AI system will operate.

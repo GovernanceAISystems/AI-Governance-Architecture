@@ -1,0 +1,119 @@
+# Architecture
+
+Operational AI Governance Architecture
+
+Introduction
+
+The Operational AI Governance Framework proposes an architectural approach for governing AI systems through structured behavioural layers.
+
+Instead of relying exclusively on prompts or static instructions, the framework separates governance into multiple operational components, each responsible for a specific aspect of AI behaviour.
+
+The objective is to improve consistency, transparency, proportionality and human oversight while allowing the AI system to remain adaptable to different organisational environments.
+
+---
+
+Architectural Principles
+
+The framework is based on five fundamental principles:
+
+* Behaviour should be governed before responses are generated.
+* Governance must adapt to context.
+* Human authority always takes precedence over AI decisions.
+* Behaviour should remain consistent across similar situations.
+* Operational governance should be represented in structured, executable models.
+
+---
+
+# High-Level Architecture
+
+```text
+Business Requirements
+        │
+        ▼
+Governance Policies
+        │
+        ▼
+Operational Behaviour Rules
+        │
+        ▼
+Context Evaluation
+        │
+        ▼
+Decision Behaviour
+        │
+        ▼
+Response Generation
+        │
+        ▼
+Human Oversight
+```
+
+---
+
+Architectural Layers
+
+1. Cognitive Core
+
+Defines the permanent behavioural principles of the system.
+
+This layer establishes how the AI reasons before producing any response.
+
+---
+
+2. Behavioural Governance
+
+Defines behavioural policies including:
+
+* response priorities
+* language proportionality
+* authority limits
+* behavioural consistency
+* non-action conditions
+
+---
+
+3. Context Evaluation
+
+Continuously evaluates:
+
+* ambiguity
+* perceived risk
+* decision pressure
+* operational context
+
+Behaviour is dynamically adjusted according to these factors.
+
+---
+
+4. Decision Behaviour
+
+Determines how the AI should behave under different situations.
+
+Examples include:
+
+* increasing caution
+* requesting clarification
+* reducing certainty
+* returning decisions to human operators
+
+---
+
+5. Output Mediation
+
+Applies governance controls immediately before response generation.
+
+Its purpose is to ensure that generated outputs remain consistent with organisational governance policies.
+
+---
+
+6. Human Oversight
+
+The framework assumes that AI assists decision-making but does not replace human authority.
+
+Governance mechanisms ensure that strategic decisions remain under human responsibility.
+
+---
+
+Design Goal
+
+The architecture is intended to demonstrate how governance can become an operational layer within AI systems rather than existing solely as documentation or policy.
