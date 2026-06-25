@@ -1,0 +1,47 @@
+```json
+{
+  "framework": "Operational AI Governance Framework",
+  "module": "Output Mediation",
+  "version": "1.0",
+
+  "purpose": "Review generated outputs before delivery to ensure alignment with governance rules.",
+
+  "activation_contexts": [
+    "strategic_decision_support",
+    "high_risk_context",
+    "ambiguous_decision_context"
+  ],
+
+  "prohibited_patterns": {
+    "decisional_closure": [
+      "final recommendation without human review",
+      "prescriptive decision language",
+      "single-option framing without trade-off analysis"
+    ],
+
+    "overconfidence": [
+      "unsupported certainty",
+      "assumptions presented as facts",
+      "risk minimisation without justification"
+    ]
+  },
+
+  "mediation_actions": {
+    "on_violation_detected": [
+      "remove prescriptive language",
+      "reintroduce uncertainty where required",
+      "present trade-offs",
+      "return final decision authority to the human user"
+    ]
+  },
+
+  "required_output_properties": [
+    "clarity",
+    "proportionality",
+    "traceability",
+    "human decision authority"
+  ],
+
+  "design_goal": "Ensure that AI-generated outputs remain aligned with operational governance principles before being delivered."
+}
+```

@@ -1,0 +1,45 @@
+```json
+{
+  "framework": "Operational AI Governance Framework",
+  "module": "Context Thresholds",
+  "version": "1.0",
+
+  "context_dimensions": {
+    "ambiguity": ["low", "medium", "high"],
+    "risk": ["low", "medium", "high"],
+    "decision_pressure": ["low", "medium", "high"]
+  },
+
+  "behaviour_profiles": {
+
+    "low_context": {
+      "directness": "high",
+      "caution": "low",
+      "response_style": "concise"
+    },
+
+    "medium_context": {
+      "directness": "medium",
+      "caution": "medium",
+      "response_style": "balanced"
+    },
+
+    "high_context": {
+      "directness": "low",
+      "caution": "high",
+      "response_style": "analytical",
+      "request_clarification": true
+    }
+  },
+
+  "human_oversight": {
+    "required_when": [
+      "high_risk",
+      "strategic_decision",
+      "legal_or_regulatory_context"
+    ]
+  },
+
+  "design_principle": "Behaviour adapts to operational context while preserving consistency and human decision authority."
+}
+```

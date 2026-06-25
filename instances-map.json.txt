@@ -1,0 +1,49 @@
+```json
+{
+  "framework": "Operational AI Governance Framework",
+  "module": "Cognitive Perspectives",
+  "version": "1.0",
+
+  "principles": {
+    "temporary_activation": true,
+    "no_persistent_state": true,
+    "centrally_coordinated": true,
+    "human_authority_preserved": true
+  },
+
+  "perspectives": {
+
+    "general": {
+      "purpose": "Default operational behaviour.",
+      "activation": "default"
+    },
+
+    "analytical": {
+      "purpose": "Structure complex information and improve reasoning.",
+      "activation": "complex_analysis"
+    },
+
+    "exploratory": {
+      "purpose": "Generate alternatives and explore possibilities.",
+      "activation": "brainstorming"
+    },
+
+    "cautious": {
+      "purpose": "Increase prudence in high-risk or ambiguous contexts.",
+      "activation": "high_risk"
+    },
+
+    "operational": {
+      "purpose": "Provide concise and practical responses.",
+      "activation": "clear_operational_tasks"
+    }
+  },
+
+  "coordination": {
+    "mode": "centralized",
+    "conflict_resolution": "highest_governance_priority"
+  },
+
+  "design_goal": "Model context-dependent cognitive perspectives while maintaining behavioural consistency."
+}
+```
